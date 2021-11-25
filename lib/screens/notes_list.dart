@@ -51,7 +51,7 @@ class NoteList extends StatelessWidget {
             backgroundColor: Colors.white,
             appBar: AppBar(
               centerTitle: true,
-              title: Text('İş Listesi'),
+              title: Text('İş Listesi Uygulaması'),
             ),
             floatingActionButton: FloatingActionButton(
               child: Icon(Icons.add),
